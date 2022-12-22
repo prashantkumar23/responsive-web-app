@@ -1,10 +1,12 @@
 ![](./readmeImg/banner.png)
 
+https://prashantkumar23.github.io/responsive-web-app/
+
 # Shaif's Cuisine 👨‍🍳
 
 **Live preview: [click me](http://shaif-s-cuisine.netlify.app)**
 
-**Watch on YouTube: ![YouTube Video Views](https://img.shields.io/youtube/views/4y-_3Ayiauw) [https://youtu.be/4y-_3Ayiauw](https://youtu.be/4y-_3Ayiauw)**
+**Watch on YouTube: ![YouTube Video Views](https://img.shields.io/youtube/views/4y-_3Ayiauw) [https://youtu.be/4y-\_3Ayiauw](https://youtu.be/4y-_3Ayiauw)**
 
 ---
 
